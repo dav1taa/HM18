@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50vh;
+}
+
+.btn-1 {
+    width: 40%;
+    background: linear-gradient( #0d4550,#36b845,#0c9220);
+}
+
+
+
+
